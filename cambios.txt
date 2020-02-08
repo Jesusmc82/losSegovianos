@@ -1,0 +1,10 @@
+
+*Header igual.
+Index: foto portada tienda (Dani).
+*body paginas: marca agua (logotipo).
+*Quienes Somos: font times new roman.
+*Productos: texto debajo imagenes.
+*Recetas fuera.
+*Pedidos: dentro de la página de los diversos productos y a ambos teléfonos.
+*Contacto: Nombre carniceria font principal, resto font times new roman.
+Dominio: losegovianos.es

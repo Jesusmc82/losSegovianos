@@ -1,0 +1,41 @@
+<?php
+include 'recurso/header.php';
+?>
+
+<ul class="breadcrumb">
+	<li><a href="index.php">Inicio</a></li>
+	<li>¿Qui&eacutenes somos?</li>
+</ul>
+
+<div class='cuerpo-container'>
+	<div class='cuerpo'>
+		<p><img src="./img/logoSegovianos.png" width="150" height="250"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec auctor semper ligula sed tempus. Praesent vel leo eget diam lobortis varius vel eget felis. Curabitur aliquet, nibh eget luctus maximus, tellus neque euismod turpis, eget placerat ante ipsum id odio. Maecenas interdum laoreet tellus non sagittis. Integer accumsan lacus sit amet ipsum varius, et blandit purus sollicitudin. Nulla consectetur nibh velit. Ut pulvinar blandit nisi a laoreet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+
+		<p>Ut fermentum magna ut arcu tristique, ultrices tempor sem viverra. Nunc id lectus bibendum, pellentesque est eu, maximus arcu. Fusce tempus nunc a dolor consequat, ac gravida nisi varius. Cras est nunc, efficitur id interdum in, hendrerit ornare velit. Quisque sagittis auctor tellus sed tempor. Nullam mattis pretium laoreet. Phasellus porta ullamcorper nisi, sed dapibus enim volutpat id. Nunc ultrices porta rhoncus. Vestibulum semper velit dolor, et porta turpis ornare vel. Maecenas efficitur metus justo, ac pharetra dui bibendum sed.</p>
+
+		<p>Mauris et consectetur nunc. Duis ut ultricies mi. Praesent ac enim vitae arcu dignissim tristique ut eu urna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras tincidunt pretium enim, a convallis risus ullamcorper et. Maecenas non quam vehicula, consectetur urna vestibulum, mollis tortor. Quisque eu ipsum sed justo efficitur tempor.</p><img src="./img/logoSegovianos.png" width="190" height="290">
+
+		<p>Suspendisse sagittis urna eget mauris luctus aliquet. Morbi feugiat molestie egestas. Aliquam dictum vehicula sem a mattis. Nunc laoreet ullamcorper lorem, id malesuada massa porta nec. Etiam euismod semper lacus, ac dignissim ipsum elementum viverra. Aenean efficitur egestas massa. Mauris imperdiet nulla ex, ac viverra nisi accumsan at. In congue, nisl vitae scelerisque efficitur, mi erat fermentum justo, sit amet ornare magna odio sed libero. Maecenas cursus tortor semper, consectetur eros ut, commodo nunc. Nunc pulvinar finibus nisl non vestibulum. Suspendisse gravida risus sed urna tristique facilisis. Aenean id augue augue. Duis sit amet elementum leo. Proin condimentum arcu est. Fusce at efficitur ante. Ut finibus ipsum non auctor sagittis.</p>
+
+		<p>Curabitur faucibus, neque vitae consequat viverra, erat justo congue nunc, et tristique nisl ante in velit. Fusce vitae finibus diam, vel sodales velit. Donec elementum quam vel orci varius vehicula et vel ante. Sed volutpat faucibus velit et congue. Mauris porttitor rhoncus nibh, et pharetra nisl pulvinar vel. Donec vitae tortor suscipit, dapibus risus ut, luctus lectus. Proin ligula tortor, interdum ut interdum eu, vehicula eget justo. Integer non elit velit. Cras venenatis magna ante, ac maximus lectus tempor id. Vestibulum nec varius tortor. Phasellus in vehicula elit. Vestibulum venenatis mauris a sapien fermentum varius nec placerat lectus.</p>
+
+		<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Nunc tristique volutpat nulla, sed gravida lectus varius at. Sed mattis aliquet urna, id interdum sem laoreet nec. Aenean rutrum elit quis dolor hendrerit iaculis. Suspendisse lacinia tincidunt lectus, ac condimentum dolor interdum ac. Mauris sed bibendum lacus. Nullam quis nunc augue. Aliquam ultricies mattis est, vel laoreet metus sagittis vitae. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean pellentesque vulputate tincidunt. In hac habitasse platea dictumst. Pellentesque suscipit orci aliquet vestibulum aliquam. Duis metus turpis, feugiat eu ultrices sit amet, tincidunt sit amet nisl. Vestibulum quis tellus a nunc feugiat gravida sit amet a est. Maecenas eu est scelerisque, tempor nisi at, vulputate nunc. Nunc nec odio id neque fermentum tristique nec vitae nunc.</p>
+
+		<p>Etiam consequat tortor at suscipit molestie. Etiam nec ipsum id magna rutrum aliquam sed eget odio. Nulla metus nulla, convallis consectetur erat id, sodales aliquam libero. Duis varius in velit sit amet imperdiet. Donec lacus elit, mollis vel leo sit amet, egestas ultrices est. Sed condimentum dui enim, a cursus ligula vehicula id. Morbi vel arcu a enim congue pretium in id erat. Duis justo mauris, venenatis eu mauris a, sodales viverra augue. Mauris tincidunt turpis in urna congue tempus. Nunc ullamcorper, ex in finibus venenatis, odio arcu facilisis libero, ut posuere nisl mi sit amet neque. Pellentesque pulvinar odio erat, a vulputate nisi efficitur sit amet. Aenean id cursus quam, ac malesuada eros. Nunc accumsan scelerisque commodo. Phasellus est mi, lacinia nec posuere vel, pulvinar eu enim.</p>
+
+		<p>Integer a dolor nisi. Quisque at viverra sapien. Vestibulum non erat vitae lorem malesuada convallis. In tincidunt aliquet quam. Duis feugiat consectetur purus nec dictum. Ut ut mi vel tortor facilisis commodo et vel erat. Mauris placerat mauris blandit nisi tempor, vel aliquam nisl varius. Sed lorem justo, condimentum eget lacus id, condimentum dignissim lacus. Donec at ullamcorper erat, sed mollis risus. Curabitur non massa metus. Donec vitae mollis enim. Maecenas tincidunt vulputate tellus, quis consectetur nulla tristique ac. Phasellus pharetra turpis ipsum, quis convallis eros pharetra non.</p>
+
+		<p>Vivamus hendrerit posuere dignissim. Mauris lacinia ut turpis nec cursus. Aenean vel tortor tempor, consequat erat id, laoreet arcu. Cras in felis id mi viverra condimentum. Maecenas viverra iaculis magna id rutrum. Duis auctor convallis tellus eget scelerisque. In eget efficitur lacus, et suscipit lacus.</p>
+
+		<p>Nunc metus sapien, euismod ut massa quis, pellentesque rutrum erat. Donec laoreet finibus turpis quis pulvinar. Integer vitae ornare eros. Sed lectus eros, pulvinar nec congue id, accumsan ac tellus. Proin massa elit, tempor ut massa ac, consectetur venenatis libero. Sed malesuada, lacus eu posuere suscipit, dolor lorem fermentum magna, tristique eleifend metus ligula a sem. Vivamus euismod enim sit amet urna dapibus, a blandit justo pellentesque. Cras ut tincidunt est.</p>
+
+		<p>Aliquam tincidunt orci vitae condimentum ullamcorper. Aenean finibus lectus sapien, placerat pellentesque est porta eget. Maecenas nec risus nulla. Nullam mi est, finibus ut leo ac, finibus euismod tellus. Sed ornare rutrum metus eu sodales. Sed a tristique tellus, tincidunt pharetra nisi. Integer at egestas nisl, id maximus mi. Pellentesque tempus dictum lectus, nec sollicitudin leo sagittis vitae.</p>
+
+		<p>Nunc imperdiet risus tristique feugiat lacinia. Sed egestas in diam sit amet posuere. Vivamus eget enim sed mi tincidunt eleifend vitae ut tellus. Nunc blandit lacus nisl, vitae euismod libero congue vitae. Vivamus mattis sit amet ex a suscipit. Duis consectetur augue ac eleifend condimentum. In ut quam quis ante semper pharetra. Nulla felis metus, fringilla ac egestas bibendum, sodales a elit. Nullam et aliquet sem, eu dapibus lectus. Suspendisse gravida felis sed ex vestibulum, in rutrum sapien volutpat.</p>
+
+		<p>Nulla facilisi. Vestibulum sit amet tristique ipsum. Maecenas non pharetra est. Integer vel lectus eget tellus suscipit vulputate cursus facilisis sem. Nulla non orci nisi. Sed sodales malesuada convallis. Sed convallis enim et purus posuere semper. Phasellus gravida vulputate orci, in vestibulum tellus molestie id. Quisque eu magna egestas augue dapibus eleifend. Praesent ut diam in arcu cursus tempor nec vel justo. Quisque pulvinar odio ut vulputate varius. Suspendisse orci nibh, egestas eu sem at, imperdiet egestas arcu. Duis ultricies nibh ut tincidunt blandit. Fusce tempor dictum egestas. Vivamus mollis leo accumsan sem sollicitudin, ac porttitor ipsum pulvinar. Quisque non gravida est.</p>
+	</div>
+</div>
+<?php
+include 'recurso/footer.php';
+?>
